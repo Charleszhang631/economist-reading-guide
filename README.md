@@ -24,7 +24,7 @@ Welcome! This is a curated pack of *The Economist* reading materials designed fo
 
 ## ✨ Preview Sample
 
-📎 点击查看样张 → [🔗 PDF样张预览（上传后改链接）](./samples/unit1-preview.pdf)
+📎 [点击查看样张 PDF](./Closing%20the%20open-door%20policy.pdf)
 
 ---
 
