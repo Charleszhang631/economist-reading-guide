@@ -1,4 +1,4 @@
-- # economist-reading-guide
+- # Economist-reading-guide
 High-level English reading pack with sentence analysis, grammar tips, and writing patterns from The Economist.
 # 🧠 Economist Reading Guide | 外刊精读资料
 
@@ -34,7 +34,7 @@ Welcome! This is a curated pack of *The Economist* reading materials designed fo
 - 📬 或微信私信获取讲义合集 + 配套拆解讲解  
 
 > 📮 小红书ID:4230202425
-     微信ID：15525140485
+     微信ID:15525140485
 
 ---
 
