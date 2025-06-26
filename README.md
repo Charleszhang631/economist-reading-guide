@@ -57,6 +57,8 @@ Welcome! This is a curated pack of *The Economist* reading materials designed fo
 📌 样张图4：核心结构用法说明 + 高分表达解析  
 ![Unit17-preview-4](./samples/unit17-preview-4.png)
 
+📎 [点击查看 PDF 样张（节选）](./samples/unit1-preview.pdf)
+
 > 🔒 所展示内容为节选样张，完整版包含完整翻译 + 拆句 + 写作训练，请私信获取。
 ---
 
