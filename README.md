@@ -51,11 +51,6 @@ Welcome! This is a curated pack of *The Economist* reading materials designed fo
 📌 样张图2：表达亮点 + 写作模仿句式  
 ![Unit16-preview-2](./samples/unit16-preview-2.png)
 
-📌 样张图3：原文 + 写作表达句源分析  
-![Unit17-preview-3](./samples/unit17-preview-3.png)
-
-📌 样张图4：核心结构用法说明 + 高分表达解析  
-![Unit17-preview-4](./samples/unit17-preview-4.png)
 
 📎 [点击查看 PDF 样张（节选）](./samples/unit1-preview.pdf)
 
