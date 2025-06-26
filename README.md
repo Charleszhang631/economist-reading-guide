@@ -46,10 +46,10 @@ Welcome! This is a curated pack of *The Economist* reading materials designed fo
 
 📌 样张图1：拆句分析 + 词汇讲解 
 
-![Unit16-preview-1](./samples/unit17-preview-1.png)
+![Unit16-preview-1](./samples/unit16-preview-1.png)
 
 📌 样张图2：表达亮点 + 写作模仿句式  
-![Unit16-preview-2](./samples/unit17-preview-2.png)
+![Unit16-preview-2](./samples/unit16-preview-2.png)
 
 📌 样张图3：原文 + 写作表达句源分析  
 ![Unit17-preview-3](./samples/unit17-preview-3.png)
