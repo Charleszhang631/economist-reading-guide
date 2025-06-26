@@ -45,6 +45,7 @@ Welcome! This is a curated pack of *The Economist* reading materials designed fo
 🧾 以下为 Unit 16 & Unit 17 精读讲义节选（展示部分结构分析 + 翻译）：
 
 📌 样张图1：拆句分析 + 词汇讲解 
+
 ![Unit16-preview-1](./samples/unit17-preview-1.png)
 
 📌 样张图2：表达亮点 + 写作模仿句式  
