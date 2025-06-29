@@ -52,7 +52,7 @@ Welcome! This is a curated pack of *The Economist* reading materials designed fo
 ![Unit16-preview-2](./samples/unit16-preview-2.png)
 
 
-📎 [点击查看 PDF 样张（节选）](./samples/Global Sensing- Breeze Tech and the Race to Detect Fires.pdf)
+📎 [点击查看 PDF 样张（节选）](./samples/Global%20Sensing-%20Breeze%20Tech%20and%20the%20Race%20to%20Detect%20Fires.pdf)
 
 > 🔒 所展示内容为节选样张，完整版包含完整翻译 + 拆句 + 写作训练，请私信获取。
 ---
